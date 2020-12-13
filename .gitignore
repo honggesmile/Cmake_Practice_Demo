@@ -1,4 +1,8 @@
-demo1/build/*
-deme2/build/*
-demo3/build/*
-demo3/lib/*
+demo1/build
+deme2/build
+demo3/build
+demo3/lib/libhello.a
+demo3/lib/libhello.so
+demo3/lib/libhello.so.1
+demo3/lib/libhello.so.1.2
+
